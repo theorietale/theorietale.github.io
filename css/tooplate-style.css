@@ -534,6 +534,8 @@ a:hover, a:active, a:focus {
   background: url('../images/contact-bg.jpg') 50% 0 repeat-y fixed;
   background-size: cover;
   background-position: center center;
+  max-width:100%;
+  height:auto;
 }
 
 #contact-form {
